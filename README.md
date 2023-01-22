@@ -18,5 +18,10 @@ This side project was inspired by chef Ping's family. Does this small project ca
 - Amplify
 - LineBot
 
+## Notes
+- Will use S3 to store files, RDS to save orders and gateway is trying to play a roll of back-end service.
+- API will consist of CRUDs.
+- Front-end will include map to show up location of order, if orders have coordinate information.
+
 ## Usage
 - 
