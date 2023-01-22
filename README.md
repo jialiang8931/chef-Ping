@@ -18,3 +18,5 @@ This side project was inspired by chef Ping's family. Does this small project ca
 - Amplify
 - LineBot
 
+## Usage
+- 
