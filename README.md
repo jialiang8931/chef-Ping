@@ -24,4 +24,5 @@ This side project was inspired by chef Ping's family. Does this small project ca
 - Front-end will include map to show up location of order, if orders have coordinate information.
 
 ## Usage
+- alias docker-python-run='sh ~/bin/bash/docker-python-run.sh'
 - 
